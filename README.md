@@ -94,4 +94,5 @@ The project manages dependencies using Maven. The necessary dependencies are spe
 ===============================
 # **NOTE** 
 ===============================
+
 Feel free to modify and expand upon this project to suit your needs. Enjoy playing Blackjack!
